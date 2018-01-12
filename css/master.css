@@ -1,0 +1,21 @@
+body {
+  background-color: #ef6269;
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  border: solid;
+  font-family: 'Acme', sans-serif;
+}
+
+.carousel-inner {
+height: 200px;
+width: 200px;
+border: 10px;
+border-radius: 10px;
+margin-top: 10px;
+margin-left: 20px;
+}
